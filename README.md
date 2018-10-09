@@ -4,7 +4,7 @@
 
 By the end of this lesson, you'll be able to
 
-1.  Create DOM elements programmatically
+1.  Create DOM elements programmaticallyy
 2.  Insert elements into the DOM
 3.  Remove elements from the DOM
 
